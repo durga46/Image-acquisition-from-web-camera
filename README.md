@@ -116,6 +116,12 @@ while True:
 cap.release()
 cv2.destroyAllwindows()
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 ## Output
 ### i) Write the frame as JPG image
 ![output](./static/img/p1.jpeg)
