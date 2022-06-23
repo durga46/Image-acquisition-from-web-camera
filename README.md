@@ -124,7 +124,7 @@ cv2.destroyAllwindows()
 </br>
 </br>
 </br>
-</br
+
 
 
 ### iv) Rotate and display the video
