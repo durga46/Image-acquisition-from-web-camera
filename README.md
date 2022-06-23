@@ -123,7 +123,8 @@ cv2.destroyAllwindows()
 ![output](./static/img/p3.jpeg)
 </br>
 </br>
-
+</br>
+</br
 
 
 ### iv) Rotate and display the video
